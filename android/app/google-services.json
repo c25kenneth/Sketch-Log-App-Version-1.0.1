@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "785543182480",
+    "project_id": "doodle-diary",
+    "storage_bucket": "doodle-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785543182480:android:48b6baf9e902e49163c015",
+        "android_client_info": {
+          "package_name": "com.c25kenneth.canvas_vault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785543182480-jufvlumra5pvcdl0drtoo0o01rkqorkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.c25kenneth.canvas_vault",
+            "certificate_hash": "d2d280aee390f696b50362fbae2f6ea04164190a"
+          }
+        },
+        {
+          "client_id": "785543182480-e17n3kdt9j7e1m92qhii1t46potrrlt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWL41hWcR_fvKHO0nMlw1D077Q1GtTMM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785543182480-e17n3kdt9j7e1m92qhii1t46potrrlt7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785543182480-durlla0afdpr32bc81rr482043kl2aiu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.canvasVault"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

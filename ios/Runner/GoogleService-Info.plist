@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>785543182480-durlla0afdpr32bc81rr482043kl2aiu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.785543182480-durlla0afdpr32bc81rr482043kl2aiu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>785543182480-jufvlumra5pvcdl0drtoo0o01rkqorkd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDvzMexuVEZXJNgqOa9B0W4ts-xQQ63yM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>785543182480</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.canvasVault</string>
+	<key>PROJECT_ID</key>
+	<string>doodle-diary</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doodle-diary.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:785543182480:ios:df3918e210b57c6b63c015</string>
+</dict>
+</plist>
